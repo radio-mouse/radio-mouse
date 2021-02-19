@@ -6,7 +6,7 @@ I'm Alex.<br>
 I currently work as a frontend developer 💻 in tiny wonderful web studio.<br>
 I'll be glad 😊 for you suggestions to join some interesting projects or startups🚀.<br>
 Here is some information about me, my experience, projects, contacts and etc.<br>
-Maybe you wanna see my CV so <a href="https://github.com/radio-mouse/radio-mouse/blob/main/CV.pdf">📝 here it is</a>.<br>
+Maybe you wanna see my CV so <a href="https://github.com/radio-mouse/radio-mouse/blob/master/CV.pdf">📝 here it is</a>.<br>
 See ya 👋.
 <p>
 <p>
@@ -52,7 +52,7 @@ See ya 👋.
     <a href="#education">🎓 Education</a>
   </li>
   <li>
-    <a href="https://github.com/radio-mouse/radio-mouse/blob/main/CV.pdf">📝 CV</a>
+    <a href="https://github.com/radio-mouse/radio-mouse/blob/master/CV.pdf">📝 CV</a>
   </li>
 </ul>
 <br>
