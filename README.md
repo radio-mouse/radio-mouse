@@ -61,7 +61,7 @@ See ya 👋.
 <h3 id="production">Production</h3>
 <h4>Frontend</h4>
 <p>
-  <a href="http://sbair.narisuemvse.ru/">
+  <a href="https://xn--80aalpxb2b9am3ao.xn--p1ai/">
     <img height="40" src="img/projects/breath.png">
   </a>
   <a href="http://radiomouse.beget.tech/">
