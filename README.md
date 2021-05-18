@@ -139,8 +139,13 @@ See ya 👋.
 <ul>
   <li>
     <b>Frontend Developer</b><br>
+    ItechArt Group<br>
+    May 2021 – Present
+  </li>
+  <li>
+    <b>Frontend Developer</b><br>
     Narisuemvse<br>
-    Oct 2020 – Present
+    Oct 2020 – May 2021
   </li>
   <li>
     <b>PHP Developer</b><br>
