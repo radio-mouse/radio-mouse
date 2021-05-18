@@ -64,9 +64,6 @@ See ya 👋.
   <a href="https://xn--80aalpxb2b9am3ao.xn--p1ai/">
     <img height="40" src="img/projects/breath.png">
   </a>
-  <a href="http://radiomouse.beget.tech/">
-    <img height="40" src="img/projects/tiamo.png">
-  </a>
   <a href="https://tehmex.ru" target="_blank">
     <img height="40" src="img/projects/tehmex.png">
   </a>
