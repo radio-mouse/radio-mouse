@@ -3,7 +3,7 @@
 Hey there 🖐️!
 
 I'm Alex.<br>
-I currently work as a frontend developer 💻 in ITechArt Group.<br>
+I currently work as a frontend developer 💻  in ITechArt Group.<br>
 I'll be glad 😊 for you suggestions to join some interesting projects or startups🚀.<br>
 Here is some information about me, my experience, projects, contacts and etc.<br>
 Maybe you wanna see my CV so <a href="https://github.com/radio-mouse/radio-mouse/blob/master/CV.pdf">📝 here it is</a>.<br>
