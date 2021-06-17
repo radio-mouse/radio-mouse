@@ -1,4 +1,4 @@
-<img src="img/header1.png" width="100%">
+<img src="img/header.png" width="100%">
 <p>
 Hey there 🖐️!
 
