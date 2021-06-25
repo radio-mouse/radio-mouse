@@ -32,14 +32,6 @@ See ya 👋.
 <ul>  
   <li>
     <a href="#projects">🧪 Projects</a>
-    <ul>
-      <li>
-        <a href="#production">Production</a>
-      </li>
-      <li>
-        <a href="#pets">Pets</a>
-      </li>
-    </ul>
   </li>
   <li>
     <a href="#stack">🔧 Stack</a>
@@ -54,8 +46,6 @@ See ya 👋.
 <br>
 <br>
 <h2 id="projects">🧪 Projects</h2>
-<h3 id="production">Production</h3>
-<h4>Frontend</h4>
 <p>
   <a href="http://nzm.vitebsk.by/">
     <img height="44" src="img/portfolio/nzm.png">
@@ -72,12 +62,6 @@ See ya 👋.
   <a href="https://dataevent.by">
     <img height="44" src="img/portfolio/data.png">
   </a>
-  <a href="https://opora-mebel.ru/">
-    <img height="44" src="img/portfolio/opora.png">
-  </a>
-</p>
-<h4>Backend</h4>
-<p>
   <a href="http://axiomfinance.ru">
     <img height="44" src="img/portfolio/axiom.png">
   </a>
@@ -93,9 +77,6 @@ See ya 👋.
   <a href="https://opora-mebel.ru/">
     <img height="44" src="img/portfolio/opora.png">
   </a>
-</p>
-<h3 id="pets">Pets</h3>
-<p>
   <a href="https://wordshub.ru">
     <img height="44" src="img/portfolio/wordshub.png">
   </a>
