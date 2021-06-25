@@ -56,27 +56,26 @@ See ya 👋.
   <a href="https://tehmex.ru" target="_blank">
     <img height="44" src="img/portfolio/tehmex.png">
   </a>
-  <br>
   <a href="https://podshipnik.info">
     <img height="44" src="img/portfolio/podshipnik.png">
   </a>
+  <br>
   <a href="https://dataevent.by">
     <img height="44" src="img/portfolio/data.png">
   </a>
   <a href="http://axiomfinance.ru">
     <img height="44" src="img/portfolio/axiom.png">
   </a>
-  <br>
   <a href="http://sc200.ru/">
     <img height="44" src="img/portfolio/vector.png">
   </a>
   <a href="http://cinemakaraoke.ru/">
     <img height="44" src="img/portfolio/cinema.png">
   </a>
+  <br>
   <a href="https://mr-food.ru/">
     <img height="44" src="img/portfolio/mrfood.png">
   </a>
-  <br>
   <a href="https://opora-mebel.ru/">
     <img height="44" src="img/portfolio/opora.png">
   </a>
