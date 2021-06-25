@@ -58,46 +58,46 @@ See ya 👋.
 <h4>Frontend</h4>
 <p>
   <a href="http://nzm.vitebsk.by/">
-    <img height="40" src="img/projects/nzm.png">
+    <img height="44" src="img/portfolio/nzm.png">
   </a>
   <a href="https://xn--80aalpxb2b9am3ao.xn--p1ai/">
-    <img height="40" src="img/projects/breath.png">
+    <img height="44" src="img/portfolio/breath.png">
   </a>
   <a href="https://tehmex.ru" target="_blank">
-    <img height="40" src="img/projects/tehmex.png">
+    <img height="44" src="img/portfolio/tehmex.png">
   </a>
   <a href="https://podshipnik.info">
-    <img height="40" src="img/projects/podshipnik.png">
+    <img height="44" src="img/portfolio/podshipnik.png">
   </a>
   <a href="https://dataevent.by">
-    <img height="40" src="img/projects/data.png">
+    <img height="44" src="img/portfolio/data.png">
   </a>
   <a href="https://opora-mebel.ru/">
-    <img height="40" src="img/projects/opora.png">
+    <img height="44" src="img/portfolio/opora.png">
   </a>
 </p>
 <h4>Backend</h4>
 <p>
   <a href="http://axiomfinance.ru">
-    <img height="40" src="img/projects/axiom.png">
+    <img height="44" src="img/portfolio/axiom.png">
   </a>
   <a href="http://sc200.ru/">
-    <img height="40" src="img/projects/vector.png">
+    <img height="44" src="img/portfolio/vector.png">
   </a>
   <a href="http://cinemakaraoke.ru/">
-    <img height="40" src="img/projects/cinema.png">
+    <img height="44" src="img/portfolio/cinema.png">
   </a>
   <a href="https://mr-food.ru/">
-    <img height="40" src="img/projects/mrfood.png">
+    <img height="44" src="img/portfolio/mrfood.png">
   </a>
   <a href="https://opora-mebel.ru/">
-    <img height="40" src="img/projects/opora.png">
+    <img height="44" src="img/portfolio/opora.png">
   </a>
 </p>
 <h3 id="pets">Pets</h3>
 <p>
   <a href="https://wordshub.ru">
-    <img height="40" src="img/projects/wordshub.png">
+    <img height="44" src="img/portfolio/wordshub.png">
   </a>
 </p>
 <br>
